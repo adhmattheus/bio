@@ -12,8 +12,8 @@ Aplicação desenvolvida no programa DevLinks, promovido pela Rocketseat para en
 </p>
 
 <p align="center">
-  <img alt="projeto Devlinks" src="./assets/print.PNG" width="100%">
-  <img alt="projeto Devlinks" src="./assets/print2.PNG" width="100%">
+  <img alt="projeto Devlinks" src="./assets/print1.PNG" width="100%">
+  <img alt="projeto Devlinks" src="./assets/printlight.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
