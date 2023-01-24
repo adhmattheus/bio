@@ -1,4 +1,4 @@
-<h1 align="center">Mattheus Adhonnay</h1>
+<h1 align="center">DevLinks</h1>
 
 <p align="center">
 Aplicação desenvolvida no programa DevLinks, promovido pela Rocketseat para ensino de tecnologias WEB.
