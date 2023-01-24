@@ -7,7 +7,7 @@ function changeTheme() {
   if (html.classList.contains('light')) {
     img.setAttribute("src", "./assets/avatar_light.png")
   } else {
-    img.setAttribute("src", "./assets/avatar.png")
+    img.setAttribute("src", "./assets/Avatar.png")
   }
 
 };
